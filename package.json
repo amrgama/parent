@@ -45,7 +45,7 @@
     "yup": "^0.32.11"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start --port 3003",
     "build": "react-scripts build",
     "build_pro": "PUBLIC_URL=/nage7-parent react-scripts build",
     "test": "react-scripts test",
